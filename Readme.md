@@ -22,4 +22,6 @@
 
 ## Data da documentação: 29/10/2026.
 
-## Histórico de versões e releases: será atualizado conforme a evolução do projeto e a publicação das versões no GitHub.
+## Histórico de versões e releases: será atualizado conforme a evolução do projeto e a publicação das versões no GitHub. 
+
+## Versão atualizada index.html, series.html e cadastro.html, também feito o versionamento das releases das tags.
